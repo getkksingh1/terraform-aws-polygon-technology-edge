@@ -1,8 +1,11 @@
 FanTiger Steps: 
 
 1 : Clone this repository 
+
 2:  Download Terraform
+
 3: terraform init
+
 4: terraform apply
 
 5: terraform destory (if anything goes wrong)
