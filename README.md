@@ -1,3 +1,12 @@
+FanTiger Steps: 
+
+1 : Clone this repository 
+2:  Download Terraform
+3: terraform init
+4: terraform apply
+
+5: terraform destory (if anything goes wrong)
+
 <!-- BEGIN_TF_DOCS -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/0xPolygon/polygon-edge/develop/.github/banner.jpg" alt="Polygon Edge" width="100%">
