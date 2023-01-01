@@ -13,7 +13,9 @@ FanTiger Steps:
 
 
 *ARN for SSL Certificate:*  arn:aws:acm:us-east-1:154252971994:certificate/361068cb-9e3d-491c-ad42-1a1bb1e8f0d5
+
 *Wallet containing pre minted 10 billon native tokens* 0x3911a471fbbc84887F75e1Ff5e8401172b278455:10000000000000000000000000000
+
 <!-- BEGIN_TF_DOCS -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/0xPolygon/polygon-edge/develop/.github/banner.jpg" alt="Polygon Edge" width="100%">
